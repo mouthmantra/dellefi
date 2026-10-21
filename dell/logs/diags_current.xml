@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>16</LogNumber>
+    <LogTimeStamp>10/21/2026 00:36:07</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <ePSAFullVersion>ED.2.4.8</ePSAFullVersion>
+      <ePSAInvocationCount>1</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>MEMORY_CONFIG</ErrorCategory>
+      <ErrorMessage><![CDATA[Memory Change]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>

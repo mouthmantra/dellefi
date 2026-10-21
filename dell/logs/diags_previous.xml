@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>15</LogNumber>
+    <LogTimeStamp>10/09/2026 22:34:39</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <ePSAFullVersion>ED.2.4.8</ePSAFullVersion>
+      <ePSAInvocationCount>12</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>POWER_SUPPLY</ErrorCategory>
+      <ErrorMessage><![CDATA[ WARNING: A 60W AC power adapter has been detected, which is less than the
+ recommended 65W adapter originally shipped.
+ The battery may not charge.
+ The system will adjust the performance to match the power available.
+
+ Please connect a Dell 65W AC adapter or greater for the best system performance.
+
+]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
